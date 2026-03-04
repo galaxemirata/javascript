@@ -70,3 +70,4 @@ const perimeter_of_circle=function(pie,diameter){
     console.log("The perimeter of the circle is",perimeter)
 }
 perimeter_of_circle(22/7,14)
+
